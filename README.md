@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **full stack projects**
 
-- 🌱 I’m currently learning **microservices ,Hibernate**
+- 🌱 I’m currently learning **Full stack datascience with gen ai and agentic ai**
 
 - 📫 How to reach me **anilkumarkosunoor@gmail.com**
 
