@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **microservices ,Hibernate**
 
+-  I'm currently learning full stack datascience with gen ai and agentic ai
+
 - 📫 How to reach me **anilkumarkosunoor@gmail.com**
 
 - 📄 Know about my experiences [https://in.docworkspace.com/d/sIIytkeGPAtGWxsUG?sa=601.1037](https://in.docworkspace.com/d/sIIytkeGPAtGWxsUG?sa=601.1037)
